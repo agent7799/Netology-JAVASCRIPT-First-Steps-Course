@@ -1,1 +1,1 @@
-JAVASCRIPT Netology first steps online course
+JAVASCRIPT Netology first steps in Javascript online course educational tasks

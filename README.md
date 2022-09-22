@@ -1,3 +1,6 @@
-#educational project
+# Netology 
+### Первые шаги в JavaScript: создаём сайт и приложение
 
-JAVASCRIPT Netology first steps in Javascript online course educational tasks
+
+Создание Web приложение с использование JavaScript VueJs, Bootstrap. Верстка сайта, подключение API, связывание компонентовю 
+ 
